@@ -1,0 +1,7 @@
+   {
+     "latest_version": "1.0.0",
+     "download_url": "https://raw.githubusercontent.com/autocoder-release/autocoder-updates/main/releases/latest/Autocoder.exe",
+     "release_notes": "Initial release with auto-update support",
+     "mandatory": false,
+     "file_size_mb": 25
+   }
