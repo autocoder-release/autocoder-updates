@@ -1,0 +1,6 @@
+{
+  "latest_version": "1.0.1",
+  "download_url": "https://github.com/autocoder-release/autocoder-updates/releases/download/v1.0.1/overlay.exe",
+  "release_notes": "Second release with better syntax and lease error with ui enhancement",
+  "mandatory": false
+}
