@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.3",
-  "download_url": "https://github.com/autocoder-release/autocoder-updates/releases/download/v1.0.3/overlay.exe",
-  "release_notes": "added tab switching issue and improved undetectability",
+  "latest_version": "1.0.4",
+  "download_url": "https://github.com/autocoder-release/autocoder-updates/releases/download/v1.0.4/overlay.exe",
+  "release_notes": "Added Javascript support and Ctrl+H shorcut for hide/unhide",
   "mandatory": false,
-  "file_size_mb": 37.85
+  "file_size_mb": 38.85
 }
 
